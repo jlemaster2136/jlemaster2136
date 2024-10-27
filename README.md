@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @jlemaster2136
-- 👀 **Interests:** Disease ecology statistics, bioinformatics, and various applications of machine learning
-- 🌱 **Skills:** Python along with Scikit-learn, Pandas, NumPy, and Matplotlib packages
+- 👀 **Interests:** Disease ecology statistics, bioinformatics, sports statistics, and various applications of machine learning
+- 🌱 **Skills:**
+  - Languages: Python, Bash, HTML, JavaScript
+  - Frameworks: Django, Streamlit
+  - Libraries: NumPy, Pandas, Matplotlib
+  - Packages: Scikit-Learn, PyTorch
 - 📫 **How to reach me:** joe.lemaster21@gmail.com 
 
 
