@@ -1,7 +1,7 @@
 Hi, I’m @jlemaster2136
 - **Interests:** Disease ecology statistics, bioinformatics, sports statistics, and various applications of machine learning
 - **Skills:**
-  - Languages: Python, Bash, HTML, JavaScript
+  - Languages: Python, SQL, JSX, JavaScript, HTML
   - Frameworks: Django, Streamlit
   - Libraries: NumPy, Pandas, Matplotlib
   - Packages: Scikit-Learn, PyTorch
