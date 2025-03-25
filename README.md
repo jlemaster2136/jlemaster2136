@@ -6,9 +6,9 @@ Hi, I’m @jlemaster2136
   - Libraries: NumPy, Pandas, Matplotlib
   - Packages: Scikit-Learn, PyTorch
 
-[Fight IQ](fight-iq.io)
+[Fight IQ](https://fight-iq.io)
 
-[Coronavirus ecology explorer](coronavirus-bat-ecology.streamlit.app)
+[Coronavirus ecology explorer](https://coronavirus-bat-ecology.streamlit.app)
 
 
 
